@@ -1,0 +1,15 @@
+{
+  "diff_invariant": true,
+  "v1": {
+    "src/a.py": ["h1", 120],
+    "src/b.py": ["h2", 80],
+    "src/old.py": ["h3", 40],
+    "docs/readme.md": ["h4", 30]
+  },
+  "v2": {
+    "src/a.py": ["h9", 150],
+    "src/new.py": ["h3", 40],
+    "src/c.py": ["h7", 25],
+    "docs/readme.md": ["h4", 30]
+  }
+}
